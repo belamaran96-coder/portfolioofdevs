@@ -45,3 +45,4 @@ The project uses placeholders. To use real assets:
 -   **3D:** Three.js, @react-three/fiber, @react-three/drei
 -   **AI:** Google Gemini (via server proxy)
 -   **Voice:** Web Speech API
+
